@@ -1,1 +1,7 @@
 # writeREADME
+
+## read 
+
+### write 
+
+#### learn 
