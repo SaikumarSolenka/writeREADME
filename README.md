@@ -1,7 +1,12 @@
+
 # writeREADME
 
 ## read 
 
 ### write 
 
-#### learn 
+#### homework 
+
+##### exams 
+
+###### learn 
